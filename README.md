@@ -25,3 +25,22 @@
 - Payment Request API (Web Payments)
 
 ## Monitoring
+- PageSpeed Insights
+- Google Search Console
+- Largest Contentful Paint (LCP)
+- Cumulative Layout Shift (CLS) (Layout Stable API)
+- Lighthouse CI
+
+## Chrome
+- Lazy loading
+- Paint Holding
+- Blocking All Mixed Content
+- Privacy Sandbox (Build-in protections, Password Manager, Site Isolation)
+
+## Next-generation web styling (Chrome Dev Summit 2019)
+- Scroll-snap
+- :focus-within
+- @media(prefers-*)
+  - prefers-reduced-motion (hook to pacify movement for sensitive folks)
+    - no-preference
+    - reduce
