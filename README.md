@@ -57,3 +57,15 @@
 - Sticky Situations
 - backdrop-filter
 - :is()
+- gap (for flexbox - currently in firefox only)
+- Houdini
+- Properties & Values API
+- Typed OM
+- Paint API
+- Animation Worklet
+- size `.box { size: 50vw }`
+- aspect-ratio `iframe { aspect-ratio: 16 / 9 }`
+- min(), max(), clamp() `h1 { font-size: clamp(1.5rem, 6vw) }`
+- list style type `ul { list-style-type: '🐶' }`
+-  display: outer inner `section { display: grid inline-flex }`
+- CSS regions `article { flow-into: articles }` `region { flow-from: articles }`
