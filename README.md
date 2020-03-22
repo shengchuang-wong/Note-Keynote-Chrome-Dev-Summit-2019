@@ -44,3 +44,16 @@
   - prefers-reduced-motion (hook to pacify movement for sensitive folks)
     - no-preference
     - reduce
+  - prefers-color-scheme (hook to adapt your UI to be easier on the eyes of a user)
+    - no-preference
+    - light
+    - dark
+  - Coming soon
+    - prefers-contrast
+    - prefers-reduced-transparency
+    - forced-colors
+    - light-level
+- Logical properties
+- Sticky Situations
+- backdrop-filter
+- :is()
