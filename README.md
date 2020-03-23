@@ -69,3 +69,6 @@
 - list style type `ul { list-style-type: '🐶' }`
 -  display: outer inner `section { display: grid inline-flex }`
 - CSS regions `article { flow-into: articles }` `region { flow-from: articles }`
+
+## Adaptive Loading - Improving web performance on slow devices (Chrome Dev Summit 2019)
+- Different resources loading for different type of hardware
